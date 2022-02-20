@@ -1,0 +1,1 @@
+# upgrade-winforms-to-net6
